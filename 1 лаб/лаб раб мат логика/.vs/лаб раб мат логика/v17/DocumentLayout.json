@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u043B\u0430\u0431 \u0440\u0430\u0431 \u043C\u0430\u0442 \u043B\u043E\u0433\u0438\u043A\u0430\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF89DBDE-F575-42E3-98E5-2B6B932D3338}|\u043B\u0430\u0431 \u0440\u0430\u0431 \u043C\u0430\u0442 \u043B\u043E\u0433\u0438\u043A\u0430.vcxproj|E:\\\u043B\u0430\u0431 \u0440\u0430\u0431 \u043C\u0430\u0442 \u043B\u043E\u0433\u0438\u043A\u0430\\\u043B\u0430\u0431 \u0440\u0430\u0431 \u043C\u0430\u0442 \u043B\u043E\u0433\u0438\u043A\u0430.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF89DBDE-F575-42E3-98E5-2B6B932D3338}|\u043B\u0430\u0431 \u0440\u0430\u0431 \u043C\u0430\u0442 \u043B\u043E\u0433\u0438\u043A\u0430.vcxproj|solutionrelative:\u043B\u0430\u0431 \u0440\u0430\u0431 \u043C\u0430\u0442 \u043B\u043E\u0433\u0438\u043A\u0430.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u043B\u0430\u0431 \u0440\u0430\u0431 \u043C\u0430\u0442 \u043B\u043E\u0433\u0438\u043A\u0430.cpp",
+              "DocumentMoniker": "E:\\\u043B\u0430\u0431 \u0440\u0430\u0431 \u043C\u0430\u0442 \u043B\u043E\u0433\u0438\u043A\u0430\\\u043B\u0430\u0431 \u0440\u0430\u0431 \u043C\u0430\u0442 \u043B\u043E\u0433\u0438\u043A\u0430.cpp",
+              "RelativeDocumentMoniker": "\u043B\u0430\u0431 \u0440\u0430\u0431 \u043C\u0430\u0442 \u043B\u043E\u0433\u0438\u043A\u0430.cpp",
+              "ToolTip": "E:\\\u043B\u0430\u0431 \u0440\u0430\u0431 \u043C\u0430\u0442 \u043B\u043E\u0433\u0438\u043A\u0430\\\u043B\u0430\u0431 \u0440\u0430\u0431 \u043C\u0430\u0442 \u043B\u043E\u0433\u0438\u043A\u0430.cpp",
+              "RelativeToolTip": "\u043B\u0430\u0431 \u0440\u0430\u0431 \u043C\u0430\u0442 \u043B\u043E\u0433\u0438\u043A\u0430.cpp",
+              "ViewState": "AgIAABQCAAAAAAAAAAAnwCYCAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-21T08:04:40.077Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
