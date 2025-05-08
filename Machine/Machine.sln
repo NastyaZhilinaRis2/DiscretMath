@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Machine", "Machine\Machine.csproj", "{BC357597-307B-418B-AD8D-8E43B564A545}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tectMachine", "tectMachine\tectMachine.csproj", "{C5082871-F026-49B8-AEF0-AB0871CB1E89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC357597-307B-418B-AD8D-8E43B564A545}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC357597-307B-418B-AD8D-8E43B564A545}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC357597-307B-418B-AD8D-8E43B564A545}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC357597-307B-418B-AD8D-8E43B564A545}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5082871-F026-49B8-AEF0-AB0871CB1E89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5082871-F026-49B8-AEF0-AB0871CB1E89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5082871-F026-49B8-AEF0-AB0871CB1E89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5082871-F026-49B8-AEF0-AB0871CB1E89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1309DE0F-1FAC-46C4-A686-6565EEA594A6}
+	EndGlobalSection
+EndGlobal

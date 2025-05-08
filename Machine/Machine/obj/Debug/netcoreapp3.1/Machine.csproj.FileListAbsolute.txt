@@ -1,0 +1,13 @@
+C:\Users\Настя\source\repos\Machine\Machine\bin\Debug\netcoreapp3.1\Machine.exe
+C:\Users\Настя\source\repos\Machine\Machine\bin\Debug\netcoreapp3.1\Machine.deps.json
+C:\Users\Настя\source\repos\Machine\Machine\bin\Debug\netcoreapp3.1\Machine.runtimeconfig.json
+C:\Users\Настя\source\repos\Machine\Machine\bin\Debug\netcoreapp3.1\Machine.runtimeconfig.dev.json
+C:\Users\Настя\source\repos\Machine\Machine\bin\Debug\netcoreapp3.1\Machine.dll
+C:\Users\Настя\source\repos\Machine\Machine\bin\Debug\netcoreapp3.1\Machine.pdb
+C:\Users\Настя\source\repos\Machine\Machine\obj\Debug\netcoreapp3.1\Machine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Настя\source\repos\Machine\Machine\obj\Debug\netcoreapp3.1\Machine.AssemblyInfoInputs.cache
+C:\Users\Настя\source\repos\Machine\Machine\obj\Debug\netcoreapp3.1\Machine.AssemblyInfo.cs
+C:\Users\Настя\source\repos\Machine\Machine\obj\Debug\netcoreapp3.1\Machine.csproj.CoreCompileInputs.cache
+C:\Users\Настя\source\repos\Machine\Machine\obj\Debug\netcoreapp3.1\Machine.dll
+C:\Users\Настя\source\repos\Machine\Machine\obj\Debug\netcoreapp3.1\Machine.pdb
+C:\Users\Настя\source\repos\Machine\Machine\obj\Debug\netcoreapp3.1\Machine.genruntimeconfig.cache

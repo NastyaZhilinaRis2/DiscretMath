@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\source\\repos\\Machine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5082871-F026-49B8-AEF0-AB0871CB1E89}|tectMachine\\tectMachine.csproj|c:\\users\\\u043D\u0430\u0441\u0442\u044F\\source\\repos\\machine\\tectmachine\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5082871-F026-49B8-AEF0-AB0871CB1E89}|tectMachine\\tectMachine.csproj|solutionrelative:tectmachine\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC357597-307B-418B-AD8D-8E43B564A545}|Machine\\Machine.csproj|c:\\users\\\u043D\u0430\u0441\u0442\u044F\\source\\repos\\machine\\machine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC357597-307B-418B-AD8D-8E43B564A545}|Machine\\Machine.csproj|solutionrelative:machine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\source\\repos\\Machine\\tectMachine\\Test1.cs",
+              "RelativeDocumentMoniker": "tectMachine\\Test1.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\source\\repos\\Machine\\tectMachine\\Test1.cs",
+              "RelativeToolTip": "tectMachine\\Test1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowA4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T13:30:46.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\source\\repos\\Machine\\Machine\\Program.cs",
+              "RelativeDocumentMoniker": "Machine\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\source\\repos\\Machine\\Machine\\Program.cs",
+              "RelativeToolTip": "Machine\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T16:41:53.182Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
